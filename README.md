@@ -35,4 +35,4 @@ code .
 ```
 
 ## Uso
-Ejecuta los ejemplos en las celdas de Jupyter Notebook presionando el boton Run All. Cada celda contiene un ejemplo específico de cómo crear diferentes tipos de gráficos utilizando Matplotlib. Los ejemplos se encuentran en el archivo `graphs.ipynb`.
+Ejecuta los ejemplos en las celdas de Jupyter Notebook presionando el boton Run All y seleccionando el entorno virtual creado. Cada celda contiene un ejemplo específico de cómo crear diferentes tipos de gráficos utilizando Matplotlib. Los ejemplos se encuentran en el archivo `graphs.ipynb`.
